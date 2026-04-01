@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(mkdir -p \"/Users/adrianodeandrade/Documents/plim/plim-admin/app/settings/covenants/[id]/plans\")",
+      "Bash(mv /Users/adrianodeandrade/Documents/plim/plim-admin/app/settings/plans/page.tsx \"/Users/adrianodeandrade/Documents/plim/plim-admin/app/settings/covenants/[id]/plans/page.tsx\")"
+    ],
+    "additionalDirectories": [
+      "/Users/adrianodeandrade/Documents/plim/plim-api/src/base/dtos",
+      "/Users/adrianodeandrade/Documents/plim/plim-api/src/admin/controllers",
+      "/Users/adrianodeandrade/Documents/plim/plim-api/src/admin/services"
+    ]
+  }
+}
